@@ -1,4 +1,4 @@
-# [YOUR NAME] — Portfolio
+# Portfolio
 
 A full-stack personal portfolio built with Next.js 14, Framer Motion, and Tailwind CSS. Five animated sections, a contact form with email delivery, in-memory rate limiting, and optional MongoDB persistence — all in one repository.
 
